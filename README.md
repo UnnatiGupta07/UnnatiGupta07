@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboards, SQL Oueries**
+- 🔭 I’m currently working on **Power BI Dashboards, SQL Queries**
 
 - 🌱 I’m currently learning **Power BI, MS Excel, Statistics, SQL, Python**
 
