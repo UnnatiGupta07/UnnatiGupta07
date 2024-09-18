@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboards**
+- 🔭 I’m currently working on **Power BI Dashboards, SQL Oueries**
 
-- 🌱 I’m currently learning **Power BI, MS Excel, Statistics**
+- 🌱 I’m currently learning **Power BI, MS Excel, Statistics, SQL, Python**
 
-- 💬 Ask me about **Data Analytics, Data Science**
+- 💬 Ask me about **Data Analytics, Data Science, Machine Learning, NLP**
 
 - 📫 How to reach me **unnatigupta2403@gmail.com**
 
