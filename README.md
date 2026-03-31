@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboards, SQL Queries**
-
-- 🌱 I’m currently learning **Power BI, MS Excel, Statistics, SQL, Python**
-
-- 💬 Ask me about **Data Analytics, Data Science, Machine Learning, NLP**
+- 🔭 I’m currently working on **Flutter, Dart, JS, SQL Queries**
 
 - 📫 How to reach me **unnatigupta2403@gmail.com**
 
